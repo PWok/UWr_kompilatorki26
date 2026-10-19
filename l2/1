@@ -1,0 +1,6 @@
+dune utop
+
+open Sexpr.Main
+open Sexpr.Ast
+
+Parse "tekst"
